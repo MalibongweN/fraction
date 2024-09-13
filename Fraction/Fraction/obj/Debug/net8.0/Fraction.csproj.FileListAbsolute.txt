@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\bin\Debug\net8.0\Fraction.exe
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\bin\Debug\net8.0\Fraction.deps.json
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\bin\Debug\net8.0\Fraction.runtimeconfig.json
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\bin\Debug\net8.0\Fraction.dll
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\bin\Debug\net8.0\Fraction.pdb
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\obj\Debug\net8.0\Fraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\obj\Debug\net8.0\Fraction.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\obj\Debug\net8.0\Fraction.AssemblyInfo.cs
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\obj\Debug\net8.0\Fraction.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\obj\Debug\net8.0\Fraction.dll
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\obj\Debug\net8.0\refint\Fraction.dll
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\obj\Debug\net8.0\Fraction.pdb
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\obj\Debug\net8.0\Fraction.genruntimeconfig.cache
+C:\Users\lab_services_student\Downloads\Fraction\Fraction\obj\Debug\net8.0\ref\Fraction.dll
